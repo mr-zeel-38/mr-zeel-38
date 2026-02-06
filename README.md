@@ -45,7 +45,7 @@
 - Built using Flutter & Firebase  
 - Designed for real academic use  
 
-🚧 *Currently under development*
+🚧 *Currently under Testing*
 
 ---
 
