@@ -53,11 +53,11 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/zeel-patel-07" target="_blank">
+  <a href="https://github.com/mr-zeel-38" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/mrzeel_" target="_blank">
+  <a href="https://instagram.com/mr.zeel" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
